@@ -28,9 +28,14 @@ If you want to fork this and improve it, go right ahead. I do ask that you give 
 
 Legal
 -----
-AudioStreamGME copyright (C) 2026 Peter Meijer
+AudioStreamGME copyright (C) 2026 Peter Meijer.
+
 Game_Music_Emu library copyright (C) 2003-2009 Shay Green.
+
 Sega Genesis YM2612 emulator copyright (C) 2002 Stephane Dallongeville.
-MAME YM2612 emulator copyright (C) 2003 Jarek Burczynski, Tatsuyuki Satoh
+
+MAME YM2612 emulator copyright (C) 2003 Jarek Burczynski, Tatsuyuki Satoh.
+
 Nuked OPN2 emulator copyright (C) 2017 Alexey Khokholov (Nuke.YKT)
+
 
